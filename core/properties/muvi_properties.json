@@ -1,0 +1,7 @@
+{
+  "app": "muvi",
+  "SAMPLE_SPREADSHEET_ID": "1LqydK2MYtB9vEJiO9ZUM2_ObBA7RzoQeckBe9aH-tlk",
+  "SAMPLE_RANGE_NAME": "Muvi",
+  "BUCKET_NAME": "stage-crawla-scraping",
+  "REGION": "eu-west-1"
+}
