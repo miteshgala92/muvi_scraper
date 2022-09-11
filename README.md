@@ -1,3 +1,3 @@
 # muvi_scraper
 
-Configure Parameters: crawler --muvi
+Configure Parameters: --crawler muvi
